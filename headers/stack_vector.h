@@ -32,7 +32,7 @@ public:
 
         explicit BasicIterator(valT* raw_ptr);
     public:
-        using iterator_caategory = std::random_access_iterator_tag;
+        using iterator_category = std::random_access_iterator_tag;
         using value_type = T;
         using difference_type = std::ptrdiff_t;
         using pointer = valT*;
