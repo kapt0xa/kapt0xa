@@ -2,4 +2,4 @@
 - 👀 I’m interested in c++ and gamedev
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/BY_kapt0xa, Kapt0xa (potato)#0345 discord, kuzmich.ml@gmail.com, https://www.youtube.com/channel/UC1K-KGKWydhaYOPLNvfy3CA my YT, https://www.cyberforum.ru/members/1364553.html (russian porgramist's forum)
+- 📫 How to reach me https://t.me/BY_kapt0xa, Kapt0xa (potato)#0345 discord, kuzmich.ml@gmail.com, https://www.youtube.com/channel/UC1K-KGKWydhaYOPLNvfy3CA, https://www.cyberforum.ru/members/1364553.html (russian porgramist's forum)
