@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kapt0xa
+- 👋 Hi, I’m @kapt0xa (kart0ffel)
 - 👀 I’m interested in c++ and gamedev
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
